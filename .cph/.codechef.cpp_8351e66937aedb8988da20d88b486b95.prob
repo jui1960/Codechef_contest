@@ -1,0 +1,1 @@
+{"name":"Local: codechef","url":"e:\\contest\\codechef.cpp","tests":[{"id":1760539362626,"input":"4 3","output":"300"},{"id":1760539374107,"input":"2 10","output":"660"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\contest\\codechef.cpp","group":"local","local":true}
