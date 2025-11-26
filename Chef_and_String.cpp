@@ -3,7 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 int main()
 {
     ios_base::sync_with_stdio(false);
@@ -13,7 +12,7 @@ int main()
     while (t--)
     {
         long long n, k;
-        cin>>n>>k;
+        cin >> n >> k;
         string s;
         cin >> s;
 
