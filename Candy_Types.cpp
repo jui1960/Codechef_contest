@@ -19,7 +19,7 @@ int main() {
         int mx = 0;
         int color = 0;
 
-        for (int i = 0; i < n; i++)
+        for (int i = 1; i <=100; i++)
         {
             if(freq[i]>mx){
                 mx = freq[i];
